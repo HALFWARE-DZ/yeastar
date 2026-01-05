@@ -26,6 +26,10 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/yeastar/css/yeastar.css"
+app_include_js = [
+    "/assets/yeastar/js/phone_icon.js"
+]
+
 # app_include_js = "/assets/yeastar/js/yeastar.js"
 
 # include js, css files in header of web template
